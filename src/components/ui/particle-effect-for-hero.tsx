@@ -366,7 +366,7 @@ const HeroContent: React.FC = () => {
                 </h1>
                 
                 <p className="max-w-2xl mx-auto text-lg md:text-xl text-white/60 font-body font-light leading-relaxed">
-                    We are making the biggest Next.Js component Library. It's fully open-source, feel free to contribute.
+                    We are making the biggest Next.Js Backend component Library. It's fully open-source, feel free to contribute.
                 </p>
 
                 <div className="pt-8 pointer-events-auto flex justify-center items-center space-x-4">
